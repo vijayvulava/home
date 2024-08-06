@@ -1,6 +1,6 @@
 ---
-title: Home
-timezone: UTC
+title: VMV Home
+timezone: America/New_York
 collections:
   posts:
     title: Posts
